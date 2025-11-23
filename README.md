@@ -135,7 +135,6 @@
       <h1 class="name">HUZAIFA ABDUL RAHMAN</h1>
       <p class="title">BS ARTIFICIAL INTELLIGENCE STUDENT</p>
     </div>
-
     <div class="content">
       <div class="left">
         <div class="info"><i class="fas fa-user"></i><p>Male</p></div>
@@ -151,7 +150,6 @@
           <li><b>Microsoft Office</b> (Word, Excel, PowerPoint)</li>
           <li><b>Internet Research & Typing</b></li>
         </ul>
-
         <div class="section">LANGUAGES</div>
         <ul>
           <li><b>English</b> (Fluent)</li>
@@ -160,32 +158,27 @@
           <li><b>Pashto</b> (Native)</li>
         </ul>
       </div>
-
       <div class="right">
         <div class="section">OBJECTIVE</div>
         <p>To obtain an internship or entry-level position in <b>Artificial Intelligence</b>, <b>Software Development</b>, or <b>IT</b> where I can apply my academic knowledge, strong computer skills, and passion for technology. Eager to contribute to innovative projects while further developing practical experience in <b>AI</b> and <b>programming</b>.</p>
-
         <div class="section">EDUCATION</div>
         <div class="job">
           <div class="job-title"><b>Bachelor of Science in Artificial Intelligence</b></div>
           <div class="company">Air University, Kamra Campus</div>
           <span class="date">2025 – Present</span>
         </div>
-
         <div class="job">
           <div class="job-title"><b>FSc Pre-Engineering (ICS - Computer Science)</b></div>
           <div class="company">Scholars College</div>
           <span class="date">2023 – 2024</span>
           <p><b>Grade:</b> 81%</p>
         </div>
-
         <div class="job">
           <div class="job-title"><b>Matriculation (Computer Science)</b></div>
           <div class="company">MRF Kamra</div>
           <span class="date">2022 – 2023</span>
           <p><b>Grade:</b> 79%</p>
         </div>
-
         <div class="section">INTERESTS</div>
         <ul>
           <li><b>Artificial Intelligence & Machine Learning</b></li>
